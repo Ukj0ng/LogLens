@@ -38,7 +38,7 @@ Spring Boot 앱 (LogLens Starter)
 ### 시스템 아키텍처
 
 ![인프라 아키텍처](https://i.imgur.com/xgzdvTs.png)
-![시스템 아키텍처](https://i.imgur.com/IScLo4U.png)
+![시스템 아키텍처](https://i.imgur.com/J5grEqU.png)
 
 ---
 
